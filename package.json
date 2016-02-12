@@ -1,0 +1,12 @@
+{
+  "name": "packaging-book",
+  "version": "0.0.1",
+  "description": "A pragmatic packaging guide",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook": "^2.6.7",
+    "gitbook-cli": "^1.0.1"
+  },
+  "author": "packaginglove team",
+  "license": "CC-BY-SA 3.0"
+}
