@@ -1,6 +1,5 @@
 language: node_js
-script: gitbook build
-post_script: "./build-and-deploy.sh"
+script: "./build-and-deploy.sh"
 env:
   global:
     GH_URL: github.com/roidelapluie/testy.git
